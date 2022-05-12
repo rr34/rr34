@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rr34
-- I am interested in coding the best commercially-available astronomical clock ever made. 
+- I want to code the best commercially-available astronomical clock ever made. 
 
 <!---
 rr34/rr34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
